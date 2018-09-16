@@ -1,0 +1,82 @@
+# 一级标题，实时预：ctrl+shift+M
+A
+
+B
+
+## 二级标题
+A
+
+B
+
+### 三级标题
+A
+
+B
+
+#### 1个tab键，空格后是代码格式
+	class Test{
+		Stirng text = "申请的代码";
+			Test(){
+				String t = "还有点陌生";
+			}
+	}
+
+### 代码格式，代码符号在键盘的左上角，tab键上一个
+<pre>
+哈哈哈，这里可以放代码, 简书的编辑器对这种写法有效
+</pre>
+
+```java
+		class Test {
+				String text = "我是用来测试的";
+		}
+```
+
+> 我是引用
+
+[^1]: 这里是脚注
+
+<!--注释看不见-->
+
+### 空格，中文输入下，输入两个空格
+  hhaha哈哈好好  哦啊好好
+
+### 只需在行末加两个空格键和一个回车键即可换行
+  hhhhahahahaaahahha
+哈哈哈
+
+### 分段：段落之间空一行即可。
+我是上一段
+
+我是下一段
+
+### 链接
+<http://www.fx4elite.club/blog/blog1.htm>
+
+### 分割线1.
+***
+
+### 分割线2.
+*****
+
+### 分割线3.
+---
+
+### 图片格式：! + [图片名称] + (url)
+![5c87612269be99270ee6a6d0eab924c1](https://www.fx4elite.club/blog/blog1_img/5c87612269be99270ee6a6d0eab924c1.png)
+
+### 图片链接，只是少个感叹号
+[5c87612269be99270ee6a6d0eab924c1](https://www.fx4elite.club/blog/blog1_img/5c87612269be99270ee6a6d0eab924c1.png)
+
+
+### 无序列表
+* 1
+* 2
+	* 2.1 加一个tab键
+		* 2.1.1 再加一个tab键
+
+### 粗体
+<b> x = {-b \pm \sqrt{b^2-4ac} \over 2a}. </b>
+
+### 斜体
+*我是斜体*
